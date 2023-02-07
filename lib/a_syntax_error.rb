@@ -1,3 +1,5 @@
 x = 1
 
-x = 
+# x =  ... X has already been defined
+
+x 
